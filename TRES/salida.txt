@@ -1,0 +1,2 @@
+Numero de lineas 3
+Numero de caracteres 43

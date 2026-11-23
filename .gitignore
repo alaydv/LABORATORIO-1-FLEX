@@ -1,0 +1,8 @@
+lex.yy.c
+a.out
+UNO/uno
+DOS/dos
+TRES/tres
+CUATRO/cuatro
+CUATRO/cuatro_modificado
+*.o
