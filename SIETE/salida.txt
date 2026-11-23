@@ -1,0 +1,10 @@
+OPERADOR ARITMETICO (suma):            +
+OPERADOR ARITMETICO (resta):           -
+OPERADOR ARITMETICO (multiplicacion):  *
+OPERADOR ARITMETICO (division):        /
+OPERADOR RELACIONAL (menor que):         <
+OPERADOR RELACIONAL (menor o igual que): <=
+OPERADOR RELACIONAL (mayor que):         >
+OPERADOR RELACIONAL (mayor o igual que): >=
+OPERADOR RELACIONAL (igualdad):        ==
+OPERADOR RELACIONAL (desigualdad):     !=
